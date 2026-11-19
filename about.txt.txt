@@ -2,3 +2,4 @@ NAME: Roxanne Ignacio
 STUDENT ID: 13762051
 Course: Platform Technologies (PLATECH)
 Hobbies: Gaming, coding, basketball
+Skills: HTML, CSS, Java
